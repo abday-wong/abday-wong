@@ -1,4 +1,4 @@
-# OUTLAWS FOR LIFE.
+# YOU'RE A DEADMAN, I'M SENDING YOU STRAIGHT TO HELL
 
 <p align="center">
   <img src="./rdr2_github_banner.png" alt="Red Dead Redemption 2 Profile Banner" width="100%" />
