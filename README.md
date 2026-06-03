@@ -1,4 +1,4 @@
-# OUTLAWS FOR LIFE. 🤠
+# OUTLAWS FOR LIFE.
 
 <p align="center">
   <img src="./rdr2_github_banner.png" alt="Red Dead Redemption 2 Profile Banner" width="100%" />
@@ -17,24 +17,24 @@
 
 ---
 
-### 📜 WANTED: BUGS & ERRORS (Dead or Alive)
+### WANTED: BUGS & ERRORS (Dead or Alive)
 > *"We can't change what's done, we can only move on."* — Arthur Morgan
 
 I am a **Computer Science Engineering student at IPB University** (Institut Pertanian Bogor). I track computational issues, build robust mobile architectures, and design intuitive, high-fidelity user experiences.
 
-* ⛺ **Code Camp:** Developing structured cross-platform mobile environments using **Flutter & Dart**.
-* 🎯 **Dead Eye Accuracy:** Converting Figma layouts into modular, pixel-perfect UI widgets.
-* 🐎 **The Next Trail:** Refining scalable web platforms and local database cache structures.
+* **Code Camp:** Developing structured cross-platform mobile environments using **Flutter & Dart**.
+* **Dead Eye Accuracy:** Converting Figma layouts into modular, pixel-perfect UI widgets.
+* **The Next Trail:** Refining scalable web platforms and local database cache structures.
 
 ---
 
-### 🎒 THE ARSENAL (Tech Stack)
+### THE ARSENAL (Tech Stack)
 > *"I have a plan. You just need to have a little faith!"* — Dutch van der Linde
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>🔫 Repeaters & Revolvers (Frontend)</h4>
+      <h4>Repeaters & Revolvers (Frontend)</h4>
       <ul>
         <li><b>Languages:</b> Dart, JavaScript, HTML5, CSS3</li>
         <li><b>Frameworks:</b> Flutter SDK, React.js</li>
@@ -42,7 +42,7 @@ I am a **Computer Science Engineering student at IPB University** (Institut Pert
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4>🐎 Saddles & Camp upgrades (Tools)</h4>
+      <h4>Saddles & Camp upgrades (Tools)</h4>
       <ul>
         <li><b>Design Systems:</b> Figma (Wireframes & UI prototypes)</li>
         <li><b>Services:</b> Firebase endpoints, Local Caching</li>
@@ -54,7 +54,7 @@ I am a **Computer Science Engineering student at IPB University** (Institut Pert
 
 ---
 
-### 📊 GitHub Activity & Camp Stats
+### GitHub Activity & Camp Stats
 > *"You run, and you don't look back."* — Arthur Morgan
 
 <p align="center">
@@ -65,7 +65,7 @@ I am a **Computer Science Engineering student at IPB University** (Institut Pert
 
 ---
 
-### 💬 Connect at the Campfire
+### Connect at the Campfire
 
 <p align="left">
   <a href="mailto:abday.hafidz23@gmail.com">
@@ -80,5 +80,5 @@ I am a **Computer Science Engineering student at IPB University** (Institut Pert
 </p>
 
 <p align="right">
-  <i>"May I stand unshaken..." 🌄</i>
+  <i>"May I stand unshaken..."</i>
 </p>
