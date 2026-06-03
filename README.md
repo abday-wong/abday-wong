@@ -58,9 +58,9 @@ I am a **Computer Science Engineering student at IPB University** (Institut Pert
 > *"You run, and you don't look back."* — Arthur Morgan
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abday-wong&show_icons=true&bg_color=0f0f10&title_color=e51a1a&icon_color=e51a1a&text_color=e8d5b5&border_color=e51a1a&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=abday-wong&show_icons=true&bg_color=0f0f10&title_color=e51a1a&icon_color=e51a1a&text_color=e8d5b5&border_color=e51a1a&border_radius=10" alt="GitHub Stats" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abday-wong&layout=compact&bg_color=0f0f10&title_color=e51a1a&icon_color=e51a1a&text_color=e8d5b5&border_color=e51a1a&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=abday-wong&layout=compact&bg_color=0f0f10&title_color=e51a1a&icon_color=e51a1a&text_color=e8d5b5&border_color=e51a1a&border_radius=10" alt="Top Languages" width="48%" />
 </p>
 
 ---
