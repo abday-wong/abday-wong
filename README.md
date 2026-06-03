@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>"We're thieves in a world that don't want us no more. But we're coders in a world that needs clean apps."</i> — Arthur Morgan
+  <b>"We're thieves in a world that don't want us no more."</b> — Arthur Morgan
 </p>
 
 <p align="center">
@@ -18,6 +18,8 @@
 ---
 
 ### 📜 WANTED: BUGS & ERRORS (Dead or Alive)
+> *"We can't change what's done, we can only move on."* — Arthur Morgan
+
 I am a **Computer Science Engineering student at IPB University** (Institut Pertanian Bogor). I track computational issues, build robust mobile architectures, and design intuitive, high-fidelity user experiences.
 
 * ⛺ **Code Camp:** Developing structured cross-platform mobile environments using **Flutter & Dart**.
@@ -27,6 +29,7 @@ I am a **Computer Science Engineering student at IPB University** (Institut Pert
 ---
 
 ### 🎒 THE ARSENAL (Tech Stack)
+> *"I have a plan. You just need to have a little faith!"* — Dutch van der Linde
 
 <table>
   <tr>
@@ -52,6 +55,7 @@ I am a **Computer Science Engineering student at IPB University** (Institut Pert
 ---
 
 ### 📊 GitHub Activity & Camp Stats
+> *"You run, and you don't look back."* — Arthur Morgan
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abday-wong&show_icons=true&bg_color=0f0f10&title_color=e51a1a&icon_color=e51a1a&text_color=e8d5b5&border_color=e51a1a&border_radius=10" alt="GitHub Stats" width="48%" />
